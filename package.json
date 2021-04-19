@@ -1,0 +1,15 @@
+{
+  "name": "Picture-To-ASCII",
+  "version": "1.0.0",
+  "description": "Turns a picture into ASCII Image",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "https://github.com/Xcyth",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "sharp": "^0.28.1"
+  }
+}
